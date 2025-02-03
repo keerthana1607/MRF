@@ -1,0 +1,8 @@
+com\rts\tap\BackendApiApplicationTests.class
+com\rts\tap\serviceimplementation\RecruitmentProcessServiceImplTest.class
+com\rts\tap\serviceimplementation\WorkFlowServiceImplTest.class
+com\rts\tap\serviceimplementation\MRFCandidateServiceImplTest.class
+com\rts\tap\serviceimplementation\MRFServiceImplTest.class
+com\rts\tap\serviceimplementation\JobDescriptionServiceImplTest.class
+com\rts\tap\serviceimplementation\RecruitingManagerServiceImplementationTest.class
+com\rts\tap\serviceimplementation\ApproverLevelSeviceImplTest.class
